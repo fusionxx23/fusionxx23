@@ -1,7 +1,7 @@
 Hi 👋 My name is Travis Tarpley
 ===============================
 
-Fullstack Blockchain Developer
+Frontend Blockchain Developer
 ------------------------------
 
 * 🌍  I'm based in Los Angeles
